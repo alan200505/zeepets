@@ -1,0 +1,15 @@
+#head{
+    width: 57px;
+    height: 60px;
+}
+.navbar{
+    font-size: 30px;
+    color: orange;
+}
+.head{
+    color: orange;
+}
+#map {
+    height: 100%;
+  }
+  
